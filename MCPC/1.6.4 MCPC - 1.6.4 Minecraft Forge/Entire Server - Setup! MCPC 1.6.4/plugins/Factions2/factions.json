@@ -1,0 +1,104 @@
+{
+  "3": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "Griefing",
+    "description": "VI GRIFFIAMO E CON CAPOBASTONE VI UCCIDIAMO",
+    "home": {
+      "world": "MATRIXcraft",
+      "x": -192.6618949609845,
+      "y": 111.0,
+      "z": -108.16839131470083,
+      "yaw": -355.1741638183594,
+      "pitch": 25.05194664001465
+    },
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "2": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "griefer",
+    "description": "W CAPOBASTONE GRIFFIAMO PER LUI",
+    "home": {
+      "world": "Tatooine",
+      "x": 181.52273564634285,
+      "y": 133.0,
+      "z": 615.3000000119209,
+      "yaw": 8.850250244140625,
+      "pitch": 64.19999694824219
+    },
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "1": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": true,
+    "tag": "scagghifaz",
+    "description": "lo staff",
+    "home": {
+      "world": "MondoCrysma",
+      "x": -105.74853104262303,
+      "y": 66.0,
+      "z": 857.6083810392336,
+      "yaw": 242.84523010253906,
+      "pitch": 8.54997444152832
+    },
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "0": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "§2Wilderness",
+    "description": "",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "-2": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "WarZone",
+    "description": "Not the safest place to be",
+    "money": 0.0,
+    "powerBoost": 0.0
+  },
+  "-1": {
+    "relationWish": {},
+    "claimOwnership": {},
+    "invites": [],
+    "open": false,
+    "peaceful": false,
+    "peacefulExplosionsEnabled": false,
+    "permanent": false,
+    "tag": "SafeZone",
+    "description": "Free from PVP and monsters",
+    "money": 0.0,
+    "powerBoost": 0.0
+  }
+}

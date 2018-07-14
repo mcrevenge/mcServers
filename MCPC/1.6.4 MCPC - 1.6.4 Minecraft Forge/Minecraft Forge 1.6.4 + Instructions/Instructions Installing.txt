@@ -1,0 +1,26 @@
+To Install Forge -
+
+( MAKE SURE YOUR MINECRAFT IS CLOSED! LAUNCHER TOO! )
+
+
+1. All you have to do is goto your .minecraft folder
+- You can get to there from either typing in %appdata% then clicking enter in the windows start bar ( OR )
+
+- You can click the little windows button on keyboard beside Alt
+And R at the same time then type in %appdata% then look for your .minecraft
+
+2. Once in .minecraft look for versions then open it, Then drag in the 1.6.4 Forge into the versions file.
+
+3. After that close all the tabs ( Hit that button hard )
+then open minecraft login and click edit profile then for the version where it says "Release 1.6.4" Click it and look for release 1.6.4 Forge and click on it then click save
+
+
+4. Start Minecraft TADA! Join your server with forge now!
+
+
+Too install mods just open up that folder i gave you 1.6.4 forge ( The one already in versions ) Right click the 1.6.4 Forge Jar File
+And then drag your mods into their. Finished :D
+
+Subscribe - Comment - Like - :D
+
+

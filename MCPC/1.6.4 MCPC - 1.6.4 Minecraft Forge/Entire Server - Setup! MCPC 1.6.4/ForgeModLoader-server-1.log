@@ -1,0 +1,457 @@
+2014-01-26 22:58:54 [Informazioni] [ForgeModLoader] Forge Mod Loader version 6.4.30.933 for Minecraft 1.6.4 loading
+2014-01-26 22:58:54 [Informazioni] [ForgeModLoader] Java is Java HotSpot(TM) 64-Bit Server VM, version 1.7.0_45, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jre7
+2014-01-26 22:58:54 [Buono] [ForgeModLoader] Java classpath at launch is MCPC.jar
+2014-01-26 22:58:54 [Buono] [ForgeModLoader] Java library path at launch is C:\Program Files\Java\jre7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;%JAVABIN%;C:\Program Files (x86)\Java\jre7\bin\;%INADYNBINDNS%;C:\inadyn\bin\win32\;.
+2014-01-26 22:58:54 [Buono] [ForgeModLoader] Enabling runtime deobfuscation
+2014-01-26 22:58:54 [Buono] [ForgeModLoader] Instantiating coremod class FMLCorePlugin
+2014-01-26 22:58:54 [Buono] [ForgeModLoader] Loaded coremod FMLCorePlugin
+2014-01-26 22:58:54 [Buono] [ForgeModLoader] Instantiating coremod class FMLForgePlugin
+2014-01-26 22:58:54 [Buono] [ForgeModLoader] Loaded coremod FMLForgePlugin
+2014-01-26 22:58:54 [Buono] [ForgeModLoader] All fundamental core mods are successfully located
+2014-01-26 22:58:54 [Buono] [ForgeModLoader] Discovering coremods
+2014-01-26 22:58:54 [Buono] [ForgeModLoader] Examining for coremod candidacy Galacticraft-1.6.4-2.0.8.908.jar
+2014-01-26 22:58:54 [Buono] [ForgeModLoader] Examining for coremod candidacy Galacticraft-Planets-1.6.4-2.0.8.908.jar
+2014-01-26 22:58:54 [Buono] [ForgeModLoader] Examining for coremod candidacy industrialcraft-2_1.118.401-lf.jar
+2014-01-26 22:58:54 [Buono] [ForgeModLoader] Not found coremod data in industrialcraft-2_1.118.401-lf.jar
+2014-01-26 22:58:54 [Buono] [ForgeModLoader] Examining for coremod candidacy MicdoodleCore-1.6.4-2.0.8.908.jar
+2014-01-26 22:58:54 [Ottimale] [ForgeModLoader] Adding MicdoodleCore-1.6.4-2.0.8.908.jar to the list of known coremods, it will not be examined again
+2014-01-26 22:58:54 [Buono] [ForgeModLoader] Instantiating coremod class MicdoodlePlugin
+2014-01-26 22:58:54 [Avvertenza] [ForgeModLoader] The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+2014-01-26 22:58:54 [Buono] [ForgeModLoader] Loaded coremod MicdoodlePlugin
+2014-01-26 22:58:54 [Buono] [ForgeModLoader] Examining for coremod candidacy traincraft-4.1.4_024.jar
+2014-01-26 22:58:54 [Buono] [ForgeModLoader] Not found coremod data in traincraft-4.1.4_024.jar
+2014-01-26 22:58:54 [Buono] [ForgeModLoader] Examining for coremod candidacy twilightforest-1.20.3.jar
+2014-01-26 22:58:54 [Ottimale] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.AccessTransformer
+2014-01-26 22:58:54 [Ottimale] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.SideTransformer
+2014-01-26 22:58:54 [Ottimale] [ForgeModLoader] Registering transformer net.minecraftforge.transformers.ForgeAccessTransformer
+2014-01-26 22:58:54 [Ottimale] [ForgeModLoader] Registering transformer net.minecraftforge.transformers.EventTransformer
+2014-01-26 22:58:54 [Ottimale] [ForgeModLoader] Registering transformer micdoodle8.mods.miccore.MicdoodleTransformer
+2014-01-26 22:58:54 [Buono] [ForgeModLoader] Running coremod plugins
+2014-01-26 22:58:54 [Buono] [ForgeModLoader] Running coremod plugin FMLCorePlugin
+2014-01-26 22:58:55 [Buono] [ForgeModLoader] Coremod plugin FMLCorePlugin run successfully
+2014-01-26 22:58:55 [Buono] [ForgeModLoader] Running coremod plugin FMLForgePlugin
+2014-01-26 22:58:55 [Buono] [ForgeModLoader] Coremod plugin FMLForgePlugin run successfully
+2014-01-26 22:58:55 [Buono] [ForgeModLoader] Running coremod plugin MicdoodlePlugin
+2014-01-26 22:58:55 [Buono] [ForgeModLoader] Coremod plugin MicdoodlePlugin run successfully
+2014-01-26 22:58:55 [Informazioni] [ForgeModLoader] Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+2014-01-26 22:58:55 [Informazioni] [ForgeModLoader] Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+2014-01-26 22:58:55 [Buono] [ForgeModLoader] Validating minecraft
+2014-01-26 22:58:55 [Buono] [ForgeModLoader] Minecraft validated, launching...
+2014-01-26 22:58:56 [Informazioni] [ForgeModLoader] Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+2014-01-26 22:58:58 [Informazioni] [MinecraftForge] Attempting early MinecraftForge initialization
+2014-01-26 22:58:58 [Informazioni] [ForgeModLoader] MinecraftForge v9.11.1.935 Initialized
+2014-01-26 22:58:58 [Informazioni] [MinecraftForge] Completed early MinecraftForge initialization
+2014-01-26 22:58:58 [Informazioni] [ForgeModLoader] Reading custom logging properties from C:\servers\1.6.4 MCPC - 1.6.4 Minecraft Forge\Entire Server - Setup! MCPC 1.6.4\config\logging.properties
+2014-01-26 22:58:58 [Non attivo] [ForgeModLoader] Logging level for ForgeModLoader logging is set to ALL
+2014-01-26 22:58:58 [Buono] [ForgeModLoader] Building injected Mod Containers [cpw.mods.fml.common.FMLDummyContainer, net.minecraftforge.common.ForgeDummyContainer, micdoodle8.mods.miccore.MicdoodleModContainer]
+2014-01-26 22:58:58 [Buono] [ForgeModLoader] Attempting to load mods contained in the minecraft jar file and associated classes
+2014-01-26 22:58:58 [Buono] [ForgeModLoader] Found a minecraft related file at C:\servers\1.6.4 MCPC - 1.6.4 Minecraft Forge\Entire Server - Setup! MCPC 1.6.4\MCPC.jar, examining for mod candidates
+2014-01-26 22:58:58 [Migliore] [ForgeModLoader] Skipping known library file C:\servers\1.6.4 MCPC - 1.6.4 Minecraft Forge\Entire Server - Setup! MCPC 1.6.4\mods\MicdoodleCore-1.6.4-2.0.8.908.jar
+2014-01-26 22:58:58 [Buono] [ForgeModLoader] Minecraft jar mods loaded successfully
+2014-01-26 22:58:58 [Informazioni] [ForgeModLoader] Searching C:\servers\1.6.4 MCPC - 1.6.4 Minecraft Forge\Entire Server - Setup! MCPC 1.6.4\mods for mods
+2014-01-26 22:58:58 [Buono] [ForgeModLoader] Found a candidate zip or jar file [Cambrian 1.4.4] Paleocraft 1.6.4.zip
+2014-01-26 22:58:58 [Buono] [ForgeModLoader] Found a candidate zip or jar file ArchimedesShips.zip
+2014-01-26 22:58:58 [Buono] [ForgeModLoader] Found a candidate zip or jar file BeerMod_1.6.4.zip
+2014-01-26 22:58:58 [Buono] [ForgeModLoader] Found a candidate zip or jar file ComputerCraft1.58.zip
+2014-01-26 22:58:58 [Buono] [ForgeModLoader] Found a candidate zip or jar file ConfigMod for MC v1.6.2.zip
+2014-01-26 22:58:58 [Buono] [ForgeModLoader] Found a candidate zip or jar file CoroAI for MC v1.6.2.zip
+2014-01-26 22:58:58 [Buono] [ForgeModLoader] Found a candidate zip or jar file ExtendedRenderer for MC v1.6.2.zip
+2014-01-26 22:58:58 [Buono] [ForgeModLoader] Found a candidate zip or jar file Galacticraft-1.6.4-2.0.8.908.jar
+2014-01-26 22:58:58 [Buono] [ForgeModLoader] Found a candidate zip or jar file Galacticraft-Planets-1.6.4-2.0.8.908.jar
+2014-01-26 22:58:58 [Buono] [ForgeModLoader] Found a candidate zip or jar file industrialcraft-2_1.118.401-lf.jar
+2014-01-26 22:58:58 [Buono] [ForgeModLoader] Found a candidate zip or jar file ironchest-universal-1.6.4-5.4.1.677.zip
+2014-01-26 22:58:58 [Migliore] [ForgeModLoader] Skipping already parsed coremod or tweaker MicdoodleCore-1.6.4-2.0.8.908.jar
+2014-01-26 22:58:58 [Buono] [ForgeModLoader] Found a candidate zip or jar file MinersDeluxe-v2.2.4.zip
+2014-01-26 22:58:58 [Buono] [ForgeModLoader] Found a candidate zip or jar file MoreExplosivesModRelease3.7forMinecraft1.6.2.zip
+2014-01-26 22:58:58 [Buono] [ForgeModLoader] Found a candidate zip or jar file NatureReborn003_1.zip
+2014-01-26 22:58:58 [Buono] [ForgeModLoader] Found a candidate zip or jar file traincraft-4.1.4_024.jar
+2014-01-26 22:58:58 [Buono] [ForgeModLoader] Found a candidate zip or jar file twilightforest-1.20.3.jar
+2014-01-26 22:58:58 [Buono] [ForgeModLoader] Found a candidate zip or jar file Weather v1.58 Mod for MC v1.6.2.zip
+2014-01-26 22:58:58 [Buono] [ForgeModLoader] Examining file MCPC.jar for potential mods
+2014-01-26 22:58:58 [Buono] [ForgeModLoader] The mod container MCPC.jar appears to be missing an mcmod.info file
+2014-01-26 22:58:59 [Buono] [ForgeModLoader] Examining file [Cambrian 1.4.4] Paleocraft 1.6.4.zip for potential mods
+2014-01-26 22:58:59 [Migliore] [ForgeModLoader] Located mcmod.info file in file [Cambrian 1.4.4] Paleocraft 1.6.4.zip
+2014-01-26 22:58:59 [Buono] [ForgeModLoader] Identified an FMLMod type mod fisherman77.paleocraft.common.Paleocraft
+2014-01-26 22:58:59 [Ottimale] [Paleocraft] Parsed dependency info : [] [] []
+2014-01-26 22:58:59 [Buono] [ForgeModLoader] Examining file ArchimedesShips.zip for potential mods
+2014-01-26 22:58:59 [Migliore] [ForgeModLoader] Located mcmod.info file in file ArchimedesShips.zip
+2014-01-26 22:58:59 [Buono] [ForgeModLoader] Identified an FMLMod type mod shipmod.ShipMod
+2014-01-26 22:58:59 [Ottimale] [ArchimedesShipsMod] Parsed dependency info : [] [] []
+2014-01-26 22:58:59 [Buono] [ForgeModLoader] Examining file BeerMod_1.6.4.zip for potential mods
+2014-01-26 22:58:59 [Migliore] [ForgeModLoader] Located mcmod.info file in file BeerMod_1.6.4.zip
+2014-01-26 22:58:59 [Buono] [ForgeModLoader] Identified an FMLMod type mod ketlark.mod.beer.BeerMod
+2014-01-26 22:58:59 [Ottimale] [BeerMod] Parsed dependency info : [] [] []
+2014-01-26 22:58:59 [Buono] [ForgeModLoader] Examining file ComputerCraft1.58.zip for potential mods
+2014-01-26 22:58:59 [Migliore] [ForgeModLoader] Located mcmod.info file in file ComputerCraft1.58.zip
+2014-01-26 22:58:59 [Buono] [ForgeModLoader] Identified an FMLMod type mod dan200.CCTurtle
+2014-01-26 22:58:59 [Ottimale] [CCTurtle] Parsed dependency info : [] [ComputerCraft] []
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Identified an FMLMod type mod dan200.ComputerCraft
+2014-01-26 22:59:00 [Ottimale] [ComputerCraft] Parsed dependency info : [] [] []
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Examining file ConfigMod for MC v1.6.2.zip for potential mods
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] The mod container ConfigMod for MC v1.6.2.zip appears to be missing an mcmod.info file
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Identified an FMLMod type mod modconfig.ConfigMod
+2014-01-26 22:59:00 [Ottimale] [ConfigMod] Parsed dependency info : [] [] []
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Examining file CoroAI for MC v1.6.2.zip for potential mods
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] The mod container CoroAI for MC v1.6.2.zip appears to be missing an mcmod.info file
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Identified an FMLMod type mod CoroAI.forge.CoroAI
+2014-01-26 22:59:00 [Ottimale] [CoroAI] Parsed dependency info : [] [] []
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Examining file ExtendedRenderer for MC v1.6.2.zip for potential mods
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] The mod container ExtendedRenderer for MC v1.6.2.zip appears to be missing an mcmod.info file
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Identified an FMLMod type mod extendedrenderer.ExtendedRenderer
+2014-01-26 22:59:00 [Ottimale] [ExtendedRenderer] Parsed dependency info : [] [] []
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Examining file Galacticraft-1.6.4-2.0.8.908.jar for potential mods
+2014-01-26 22:59:00 [Migliore] [ForgeModLoader] Located mcmod.info file in file Galacticraft-1.6.4-2.0.8.908.jar
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Identified an FMLMod type mod micdoodle8.mods.galacticraft.core.GalacticraftCore
+2014-01-26 22:59:00 [Ottimale] [GalacticraftCore] Parsed dependency info : [Forge@[9.10.0.837,)] [Forge@[9.10.0.837,), ICBM|Explosion, IC2, BuildCraft|Core, BuildCraft|Energy, IC2] []
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Examining file Galacticraft-Planets-1.6.4-2.0.8.908.jar for potential mods
+2014-01-26 22:59:00 [Migliore] [ForgeModLoader] Located mcmod.info file in file Galacticraft-Planets-1.6.4-2.0.8.908.jar
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Identified an FMLMod type mod micdoodle8.mods.galacticraft.mars.GalacticraftMars
+2014-01-26 22:59:00 [Ottimale] [GalacticraftMars] Parsed dependency info : [GalacticraftCore] [GalacticraftCore] []
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Examining file industrialcraft-2_1.118.401-lf.jar for potential mods
+2014-01-26 22:59:00 [Migliore] [ForgeModLoader] Located mcmod.info file in file industrialcraft-2_1.118.401-lf.jar
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Identified an FMLMod type mod ic2.core.IC2
+2014-01-26 22:59:00 [Ottimale] [IC2] Parsed dependency info : [] [] []
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Examining file ironchest-universal-1.6.4-5.4.1.677.zip for potential mods
+2014-01-26 22:59:00 [Migliore] [ForgeModLoader] Located mcmod.info file in file ironchest-universal-1.6.4-5.4.1.677.zip
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Identified an FMLMod type mod cpw.mods.ironchest.IronChest
+2014-01-26 22:59:00 [Ottimale] [IronChest] Parsed dependency info : [Forge@[7.0,), FML@[5.0.5,)] [Forge@[7.0,), FML@[5.0.5,)] []
+2014-01-26 22:59:00 [Buono] [IronChest] Attempting to load the file version.properties from ironchest-universal-1.6.4-5.4.1.677.zip to locate a version number for IronChest
+2014-01-26 22:59:00 [Buono] [IronChest] Found version 5.4.1.677 for mod IronChest in version.properties, using
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Examining file MinersDeluxe-v2.2.4.zip for potential mods
+2014-01-26 22:59:00 [Migliore] [ForgeModLoader] Located mcmod.info file in file MinersDeluxe-v2.2.4.zip
+2014-01-26 22:59:00 [Grave] [ForgeModLoader] The mcmod.info file in MinersDeluxe-v2.2.4.zip cannot be parsed as valid JSON. It will be ignored
+argo.saj.InvalidSyntaxException: At line 5, column 137:  Expected either , or } but got [T].
+	at argo.saj.SajParser.objectString(SajParser.java:120)
+	at argo.saj.SajParser.aJsonValue(SajParser.java:194)
+	at argo.saj.SajParser.arrayString(SajParser.java:79)
+	at argo.saj.SajParser.parse(SajParser.java:58)
+	at argo.jdom.JdomParser.parse(JdomParser.java:36)
+	at cpw.mods.fml.common.MetadataCollection.from(MetadataCollection.java:44)
+	at cpw.mods.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:53)
+	at cpw.mods.fml.common.discovery.ContainerType.findMods(ContainerType.java:42)
+	at cpw.mods.fml.common.discovery.ModCandidate.explore(ModCandidate.java:67)
+	at cpw.mods.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:130)
+	at cpw.mods.fml.common.Loader.identifyMods(Loader.java:353)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:484)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:618)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Identified an FMLMod type mod awesomemancam.minersdeluxe.MinersDeluxe
+2014-01-26 22:59:00 [Ottimale] [MinersDeluxe] Parsed dependency info : [] [] []
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Examining file MoreExplosivesModRelease3.7forMinecraft1.6.2.zip for potential mods
+2014-01-26 22:59:00 [Migliore] [ForgeModLoader] Located mcmod.info file in file MoreExplosivesModRelease3.7forMinecraft1.6.2.zip
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Identified an FMLMod type mod com.moreexplosives.MoreExplosives
+2014-01-26 22:59:00 [Ottimale] [MoreExplosives] Parsed dependency info : [] [] []
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Examining file NatureReborn003_1.zip for potential mods
+2014-01-26 22:59:00 [Migliore] [ForgeModLoader] Located mcmod.info file in file NatureReborn003_1.zip
+2014-01-26 22:59:00 [Grave] [ForgeModLoader] The mcmod.info file in NatureReborn003_1.zip cannot be parsed as valid JSON. It will be ignored
+argo.saj.InvalidSyntaxException: At line 13, column 4:  Expected object identifier to begin with ["] but got [}].
+	at argo.saj.SajParser.aFieldToken(SajParser.java:129)
+	at argo.saj.SajParser.objectString(SajParser.java:114)
+	at argo.saj.SajParser.aJsonValue(SajParser.java:194)
+	at argo.saj.SajParser.arrayString(SajParser.java:79)
+	at argo.saj.SajParser.aJsonValue(SajParser.java:198)
+	at argo.saj.SajParser.aFieldToken(SajParser.java:137)
+	at argo.saj.SajParser.objectString(SajParser.java:114)
+	at argo.saj.SajParser.parse(SajParser.java:53)
+	at argo.jdom.JdomParser.parse(JdomParser.java:36)
+	at cpw.mods.fml.common.MetadataCollection.from(MetadataCollection.java:44)
+	at cpw.mods.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:53)
+	at cpw.mods.fml.common.discovery.ContainerType.findMods(ContainerType.java:42)
+	at cpw.mods.fml.common.discovery.ModCandidate.explore(ModCandidate.java:67)
+	at cpw.mods.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:130)
+	at cpw.mods.fml.common.Loader.identifyMods(Loader.java:353)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:484)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:618)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Found a basemod jokiboy.mods.nr.NDisastersMod of non-standard naming format
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Identified an FMLMod type mod jokiboy.mods.nr.NDisastersMod
+2014-01-26 22:59:00 [Ottimale] [natureReborn] Parsed dependency info : [] [] []
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Examining file traincraft-4.1.4_024.jar for potential mods
+2014-01-26 22:59:00 [Migliore] [ForgeModLoader] Located mcmod.info file in file traincraft-4.1.4_024.jar
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Identified an FMLMod type mod src.train.common.Traincraft
+2014-01-26 22:59:00 [Ottimale] [TC] Parsed dependency info : [] [] []
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Examining file twilightforest-1.20.3.jar for potential mods
+2014-01-26 22:59:00 [Migliore] [ForgeModLoader] Located mcmod.info file in file twilightforest-1.20.3.jar
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Identified an FMLMod type mod twilightforest.TwilightForestMod
+2014-01-26 22:59:00 [Ottimale] [TwilightForest] Parsed dependency info : [] [] []
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Examining file Weather v1.58 Mod for MC v1.6.2.zip for potential mods
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] The mod container Weather v1.58 Mod for MC v1.6.2.zip appears to be missing an mcmod.info file
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Identified an FMLMod type mod weather.blocks.structure.AIBlock
+2014-01-26 22:59:00 [Ottimale] [AIBlock] Parsed dependency info : [] [] []
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Identified an FMLMod type mod weather.WeatherMod
+2014-01-26 22:59:00 [Ottimale] [WeatherMod] Parsed dependency info : [] [] []
+2014-01-26 22:59:00 [Informazioni] [ForgeModLoader] Forge Mod Loader has identified 23 mods to load
+2014-01-26 22:59:00 [Migliore] [ForgeModLoader] Received a system property request ''
+2014-01-26 22:59:00 [Migliore] [ForgeModLoader] System property request managing the state of 0 mods
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] After merging, found state information for 0 mods
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Reloading logging properties from C:\servers\1.6.4 MCPC - 1.6.4 Minecraft Forge\Entire Server - Setup! MCPC 1.6.4\config\logging.properties
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Reloaded logging properties
+2014-01-26 22:59:00 [Buono] [mcp] Mod Logging channel mcp configured at default level.
+2014-01-26 22:59:00 [Informazioni] [mcp] Activating mod mcp
+2014-01-26 22:59:00 [Buono] [FML] Mod Logging channel FML configured at default level.
+2014-01-26 22:59:00 [Informazioni] [FML] Activating mod FML
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Injecting found translation data in zip file MCPC.jar at assets/forge/lang/en_US.lang into language system
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Injecting found translation data in zip file MCPC.jar at assets/minecraft/lang/en_US.lang into language system
+2014-01-26 22:59:00 [Buono] [Forge] Mod Logging channel Forge configured at default level.
+2014-01-26 22:59:00 [Informazioni] [Forge] Activating mod Forge
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Injecting found translation data in zip file MCPC.jar at assets/forge/lang/en_US.lang into language system
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Injecting found translation data in zip file MCPC.jar at assets/minecraft/lang/en_US.lang into language system
+2014-01-26 22:59:00 [Buono] [Micdoodlecore] Mod Logging channel Micdoodlecore configured at default level.
+2014-01-26 22:59:00 [Informazioni] [Micdoodlecore] Activating mod Micdoodlecore
+2014-01-26 22:59:00 [Buono] [Paleocraft] Enabling mod Paleocraft
+2014-01-26 22:59:00 [Buono] [Paleocraft] Mod Logging channel Paleocraft configured at default level.
+2014-01-26 22:59:00 [Informazioni] [Paleocraft] Activating mod Paleocraft
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Injecting found translation data in zip file [Cambrian 1.4.4] Paleocraft 1.6.4.zip at assets/forge/lang/en_US.lang into language system
+2014-01-26 22:59:00 [Buono] [ArchimedesShipsMod] Enabling mod ArchimedesShipsMod
+2014-01-26 22:59:00 [Buono] [ArchimedesShipsMod] Mod Logging channel ArchimedesShipsMod configured at default level.
+2014-01-26 22:59:00 [Informazioni] [ArchimedesShipsMod] Activating mod ArchimedesShipsMod
+2014-01-26 22:59:00 [Buono] [BeerMod] Enabling mod BeerMod
+2014-01-26 22:59:00 [Buono] [BeerMod] Mod Logging channel BeerMod configured at default level.
+2014-01-26 22:59:00 [Informazioni] [BeerMod] Activating mod BeerMod
+2014-01-26 22:59:00 [Buono] [CCTurtle] Enabling mod CCTurtle
+2014-01-26 22:59:00 [Buono] [CCTurtle] Mod Logging channel CCTurtle configured at default level.
+2014-01-26 22:59:00 [Informazioni] [CCTurtle] Activating mod CCTurtle
+2014-01-26 22:59:00 [Buono] [ComputerCraft] Enabling mod ComputerCraft
+2014-01-26 22:59:00 [Buono] [ComputerCraft] Mod Logging channel ComputerCraft configured at default level.
+2014-01-26 22:59:00 [Informazioni] [ComputerCraft] Activating mod ComputerCraft
+2014-01-26 22:59:00 [Buono] [ConfigMod] Enabling mod ConfigMod
+2014-01-26 22:59:00 [Buono] [ConfigMod] Mod Logging channel ConfigMod configured at default level.
+2014-01-26 22:59:00 [Informazioni] [ConfigMod] Activating mod ConfigMod
+2014-01-26 22:59:00 [Buono] [CoroAI] Enabling mod CoroAI
+2014-01-26 22:59:00 [Buono] [CoroAI] Mod Logging channel CoroAI configured at default level.
+2014-01-26 22:59:00 [Informazioni] [CoroAI] Activating mod CoroAI
+2014-01-26 22:59:00 [Buono] [ExtendedRenderer] Enabling mod ExtendedRenderer
+2014-01-26 22:59:00 [Buono] [ExtendedRenderer] Mod Logging channel ExtendedRenderer configured at default level.
+2014-01-26 22:59:00 [Informazioni] [ExtendedRenderer] Activating mod ExtendedRenderer
+2014-01-26 22:59:00 [Buono] [GalacticraftCore] Enabling mod GalacticraftCore
+2014-01-26 22:59:00 [Buono] [GalacticraftCore] Mod Logging channel GalacticraftCore configured at default level.
+2014-01-26 22:59:00 [Informazioni] [GalacticraftCore] Activating mod GalacticraftCore
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Injecting found translation data in zip file Galacticraft-1.6.4-2.0.8.908.jar at assets/galacticraftmars/lang/en_US.lang into language system
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Injecting found translation data in zip file Galacticraft-1.6.4-2.0.8.908.jar at assets/galacticraftmoon/lang/en_US.lang into language system
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Injecting found translation data in zip file Galacticraft-1.6.4-2.0.8.908.jar at assets/galacticraftcore/lang/en_US.lang into language system
+2014-01-26 22:59:00 [Buono] [GalacticraftMars] Enabling mod GalacticraftMars
+2014-01-26 22:59:00 [Buono] [GalacticraftMars] Mod Logging channel GalacticraftMars configured at default level.
+2014-01-26 22:59:00 [Informazioni] [GalacticraftMars] Activating mod GalacticraftMars
+2014-01-26 22:59:00 [Buono] [IC2] Enabling mod IC2
+2014-01-26 22:59:00 [Buono] [IC2] Mod Logging channel IC2 configured at default level.
+2014-01-26 22:59:00 [Informazioni] [IC2] Activating mod IC2
+2014-01-26 22:59:00 [Buono] [IronChest] Enabling mod IronChest
+2014-01-26 22:59:00 [Buono] [IronChest] Mod Logging channel IronChest configured at default level.
+2014-01-26 22:59:00 [Informazioni] [IronChest] Activating mod IronChest
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Injecting found translation data in zip file ironchest-universal-1.6.4-5.4.1.677.zip at assets/ironchest/lang/en_US.lang into language system
+2014-01-26 22:59:00 [Buono] [MinersDeluxe] Enabling mod MinersDeluxe
+2014-01-26 22:59:00 [Buono] [MinersDeluxe] Mod Logging channel MinersDeluxe configured at default level.
+2014-01-26 22:59:00 [Informazioni] [MinersDeluxe] Activating mod MinersDeluxe
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Injecting found translation data in zip file MinersDeluxe-v2.2.4.zip at assets/forge/lang/en_US.lang into language system
+2014-01-26 22:59:00 [Buono] [MoreExplosives] Enabling mod MoreExplosives
+2014-01-26 22:59:00 [Buono] [MoreExplosives] Mod Logging channel MoreExplosives configured at default level.
+2014-01-26 22:59:00 [Informazioni] [MoreExplosives] Activating mod MoreExplosives
+2014-01-26 22:59:00 [Buono] [natureReborn] Enabling mod natureReborn
+2014-01-26 22:59:00 [Buono] [natureReborn] Mod Logging channel natureReborn configured at default level.
+2014-01-26 22:59:00 [Informazioni] [natureReborn] Activating mod natureReborn
+2014-01-26 22:59:00 [Buono] [TC] Enabling mod TC
+2014-01-26 22:59:00 [Buono] [TC] Mod Logging channel TC configured at default level.
+2014-01-26 22:59:00 [Informazioni] [TC] Activating mod TC
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Injecting found translation data in zip file traincraft-4.1.4_024.jar at assets/tc/lang/en_US.lang into language system
+2014-01-26 22:59:00 [Buono] [TwilightForest] Enabling mod TwilightForest
+2014-01-26 22:59:00 [Buono] [TwilightForest] Mod Logging channel TwilightForest configured at default level.
+2014-01-26 22:59:00 [Informazioni] [TwilightForest] Activating mod TwilightForest
+2014-01-26 22:59:00 [Buono] [AIBlock] Enabling mod AIBlock
+2014-01-26 22:59:00 [Buono] [AIBlock] Mod Logging channel AIBlock configured at default level.
+2014-01-26 22:59:00 [Informazioni] [AIBlock] Activating mod AIBlock
+2014-01-26 22:59:00 [Buono] [WeatherMod] Enabling mod WeatherMod
+2014-01-26 22:59:00 [Buono] [WeatherMod] Mod Logging channel WeatherMod configured at default level.
+2014-01-26 22:59:00 [Informazioni] [WeatherMod] Activating mod WeatherMod
+2014-01-26 22:59:00 [Migliore] [ForgeModLoader] Verifying mod requirements are satisfied
+2014-01-26 22:59:00 [Migliore] [ForgeModLoader] All mod requirements are satisfied
+2014-01-26 22:59:00 [Migliore] [ForgeModLoader] Sorting mods into an ordered list
+2014-01-26 22:59:00 [Migliore] [ForgeModLoader] Mod sorting completed successfully
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] Mod sorting data
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] 	Paleocraft(Paleocraft:1.6.4 Cambrian 1.4.4): [Cambrian 1.4.4] Paleocraft 1.6.4.zip ()
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] 	ArchimedesShipsMod(Archimedes' Ships:1.6.4 v1.4.5): ArchimedesShips.zip ()
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] 	BeerMod(Beer Mod:0.4.5): BeerMod_1.6.4.zip ()
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] 	ComputerCraft(ComputerCraft:1.58): ComputerCraft1.58.zip ()
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] 	CCTurtle(ComputerCraft Turtles:1.58): ComputerCraft1.58.zip (after:ComputerCraft)
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] 	ConfigMod(Extended Mod Config:v1.0): ConfigMod for MC v1.6.2.zip ()
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] 	CoroAI(CoroAI:v1.0): CoroAI for MC v1.6.2.zip ()
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] 	ExtendedRenderer(Extended Renderer:v1.0): ExtendedRenderer for MC v1.6.2.zip ()
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] 	IC2(IndustrialCraft 2:1.118.401-lf): industrialcraft-2_1.118.401-lf.jar ()
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] 	GalacticraftCore(Galacticraft Core:2.0.8): Galacticraft-1.6.4-2.0.8.908.jar (required-after:Forge@[9.10.0.837,); after:ICBM|Explosion; after:IC2; after:BuildCraft|Core; after:BuildCraft|Energy; after:IC2)
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] 	GalacticraftMars(Galacticraft Mars:2.0.8): Galacticraft-Planets-1.6.4-2.0.8.908.jar (required-after:GalacticraftCore;)
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] 	IronChest(Iron Chest:5.4.1.677): ironchest-universal-1.6.4-5.4.1.677.zip (required-after:Forge@[7.0,);required-after:FML@[5.0.5,))
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] 	MinersDeluxe(MinersDeluxe:2.2.3): MinersDeluxe-v2.2.4.zip ()
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] 	MoreExplosives(More Explosives:Release 3.7 for Minecraft 1.6.2): MoreExplosivesModRelease3.7forMinecraft1.6.2.zip ()
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] 	natureReborn(Nature Reborn:0.0.3): NatureReborn003_1.zip ()
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] 	TC(Traincraft:4.1.4_024): traincraft-4.1.4_024.jar ()
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] 	TwilightForest(The Twilight Forest:1.20.3): twilightforest-1.20.3.jar ()
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] 	AIBlock(AIBlock:v1.0): Weather v1.58 Mod for MC v1.6.2.zip ()
+2014-01-26 22:59:00 [Buono] [ForgeModLoader] 	WeatherMod(Weather and Tornadoes:1.58): Weather v1.58 Mod for MC v1.6.2.zip ()
+2014-01-26 22:59:00 [Ottimale] [mcp] Sending event FMLConstructionEvent to mod mcp
+2014-01-26 22:59:00 [Ottimale] [mcp] Sent event FMLConstructionEvent to mod mcp
+2014-01-26 22:59:00 [Ottimale] [FML] Sending event FMLConstructionEvent to mod FML
+2014-01-26 22:59:00 [Ottimale] [FML] Sent event FMLConstructionEvent to mod FML
+2014-01-26 22:59:00 [Ottimale] [Forge] Sending event FMLConstructionEvent to mod Forge
+2014-01-26 22:59:00 [Informazioni] [ForgeModLoader] Registering Forge Packet Handler
+2014-01-26 22:59:00 [Ottimale] [ForgeModLoader] Testing mod Forge to verify it accepts its own version in a remote connection
+2014-01-26 22:59:00 [Ottimale] [ForgeModLoader] The mod Forge accepts its own version (9.11.1.935)
+2014-01-26 22:59:00 [Informazioni] [ForgeModLoader] Succeeded registering Forge Packet Handler
+2014-01-26 22:59:00 [Ottimale] [Forge] Sent event FMLConstructionEvent to mod Forge
+2014-01-26 22:59:00 [Ottimale] [Micdoodlecore] Sending event FMLConstructionEvent to mod Micdoodlecore
+2014-01-26 22:59:00 [Ottimale] [Micdoodlecore] Sent event FMLConstructionEvent to mod Micdoodlecore
+2014-01-26 22:59:00 [Ottimale] [Paleocraft] Sending event FMLConstructionEvent to mod Paleocraft
+2014-01-26 22:59:01 [Ottimale] [ForgeModLoader] Testing mod Paleocraft to verify it accepts its own version in a remote connection
+2014-01-26 22:59:01 [Ottimale] [ForgeModLoader] The mod Paleocraft accepts its own version (1.6.4 Cambrian 1.4.4)
+2014-01-26 22:59:01 [Buono] [ForgeModLoader] Attempting to inject @SidedProxy classes into Paleocraft
+2014-01-26 22:59:01 [Ottimale] [Paleocraft] Sent event FMLConstructionEvent to mod Paleocraft
+2014-01-26 22:59:01 [Ottimale] [ArchimedesShipsMod] Sending event FMLConstructionEvent to mod ArchimedesShipsMod
+2014-01-26 22:59:01 [Ottimale] [ForgeModLoader] Testing mod ArchimedesShipsMod to verify it accepts its own version in a remote connection
+2014-01-26 22:59:01 [Ottimale] [ForgeModLoader] The mod ArchimedesShipsMod accepts its own version (1.6.4 v1.4.5)
+2014-01-26 22:59:01 [Buono] [ForgeModLoader] Attempting to inject @SidedProxy classes into ArchimedesShipsMod
+2014-01-26 22:59:01 [Ottimale] [ArchimedesShipsMod] Sent event FMLConstructionEvent to mod ArchimedesShipsMod
+2014-01-26 22:59:01 [Ottimale] [BeerMod] Sending event FMLConstructionEvent to mod BeerMod
+2014-01-26 22:59:01 [Ottimale] [ForgeModLoader] Testing mod BeerMod to verify it accepts its own version in a remote connection
+2014-01-26 22:59:01 [Ottimale] [ForgeModLoader] The mod BeerMod accepts its own version (0.4.5)
+2014-01-26 22:59:01 [Buono] [ForgeModLoader] Attempting to inject @SidedProxy classes into BeerMod
+2014-01-26 22:59:01 [Ottimale] [BeerMod] Sent event FMLConstructionEvent to mod BeerMod
+2014-01-26 22:59:01 [Ottimale] [ComputerCraft] Sending event FMLConstructionEvent to mod ComputerCraft
+2014-01-26 22:59:01 [Ottimale] [ForgeModLoader] Testing mod ComputerCraft to verify it accepts its own version in a remote connection
+2014-01-26 22:59:01 [Ottimale] [ForgeModLoader] The mod ComputerCraft accepts its own version (1.58)
+2014-01-26 22:59:01 [Buono] [ForgeModLoader] Attempting to inject @SidedProxy classes into ComputerCraft
+2014-01-26 22:59:01 [Ottimale] [ComputerCraft] Sent event FMLConstructionEvent to mod ComputerCraft
+2014-01-26 22:59:01 [Ottimale] [CCTurtle] Sending event FMLConstructionEvent to mod CCTurtle
+2014-01-26 22:59:01 [Ottimale] [ForgeModLoader] Testing mod CCTurtle to verify it accepts its own version in a remote connection
+2014-01-26 22:59:01 [Ottimale] [ForgeModLoader] The mod CCTurtle accepts its own version (1.58)
+2014-01-26 22:59:01 [Buono] [ForgeModLoader] Attempting to inject @SidedProxy classes into CCTurtle
+2014-01-26 22:59:01 [Ottimale] [CCTurtle] Sent event FMLConstructionEvent to mod CCTurtle
+2014-01-26 22:59:01 [Ottimale] [ConfigMod] Sending event FMLConstructionEvent to mod ConfigMod
+2014-01-26 22:59:01 [Ottimale] [ForgeModLoader] Testing mod ConfigMod to verify it accepts its own version in a remote connection
+2014-01-26 22:59:01 [Ottimale] [ForgeModLoader] The mod ConfigMod accepts its own version (v1.0)
+2014-01-26 22:59:01 [Buono] [ForgeModLoader] Attempting to inject @SidedProxy classes into ConfigMod
+2014-01-26 22:59:01 [Ottimale] [ConfigMod] Sent event FMLConstructionEvent to mod ConfigMod
+2014-01-26 22:59:01 [Ottimale] [CoroAI] Sending event FMLConstructionEvent to mod CoroAI
+2014-01-26 22:59:01 [Ottimale] [ForgeModLoader] Testing mod CoroAI to verify it accepts its own version in a remote connection
+2014-01-26 22:59:01 [Ottimale] [ForgeModLoader] The mod CoroAI accepts its own version (v1.0)
+2014-01-26 22:59:01 [Buono] [ForgeModLoader] Attempting to inject @SidedProxy classes into CoroAI
+2014-01-26 22:59:01 [Ottimale] [CoroAI] Sent event FMLConstructionEvent to mod CoroAI
+2014-01-26 22:59:01 [Ottimale] [ExtendedRenderer] Sending event FMLConstructionEvent to mod ExtendedRenderer
+2014-01-26 22:59:01 [Buono] [ForgeModLoader] Attempting to inject @SidedProxy classes into ExtendedRenderer
+2014-01-26 22:59:01 [Ottimale] [ExtendedRenderer] Sent event FMLConstructionEvent to mod ExtendedRenderer
+2014-01-26 22:59:01 [Ottimale] [IC2] Sending event FMLConstructionEvent to mod IC2
+2014-01-26 22:59:01 [Ottimale] [ForgeModLoader] Testing mod IC2 to verify it accepts its own version in a remote connection
+2014-01-26 22:59:01 [Avvertenza] [ForgeModLoader] There was a problem invoking the checkhandler method checkVersion for network mod id IC2
+java.lang.NullPointerException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.network.NetworkModHandler.acceptVersion(NetworkModHandler.java:317)
+	at cpw.mods.fml.common.network.NetworkModHandler.configureNetworkMod(NetworkModHandler.java:123)
+	at cpw.mods.fml.common.network.NetworkModHandler.<init>(NetworkModHandler.java:102)
+	at cpw.mods.fml.common.network.FMLNetworkHandler.registerNetworkMod(FMLNetworkHandler.java:265)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:518)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:194)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:174)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:105)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:509)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:350)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:92)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:618)
+	at net.minecraft.server.ThreadMinecraftServer.run(ThreadMinecraftServer.java:16)
+2014-01-26 22:59:01 [Grave] [ForgeModLoader] The mod IC2 appears to reject its own version number (1.118.401-lf) in its version handling. This is likely a severe bug in the mod!
+2014-01-26 22:59:01 [Buono] [ForgeModLoader] Attempting to inject @SidedProxy classes into IC2
+2014-01-26 22:59:01 [Ottimale] [IC2] Sent event FMLConstructionEvent to mod IC2
+2014-01-26 22:59:01 [Ottimale] [GalacticraftCore] Sending event FMLConstructionEvent to mod GalacticraftCore
+2014-01-26 22:59:01 [Ottimale] [ForgeModLoader] Testing mod GalacticraftCore to verify it accepts its own version in a remote connection
+2014-01-26 22:59:01 [Ottimale] [ForgeModLoader] The mod GalacticraftCore accepts its own version (2.0.8)
+2014-01-26 22:59:01 [Buono] [ForgeModLoader] Attempting to inject @SidedProxy classes into GalacticraftCore
+2014-01-26 22:59:01 [Ottimale] [GalacticraftCore] Sent event FMLConstructionEvent to mod GalacticraftCore
+2014-01-26 22:59:01 [Ottimale] [GalacticraftMars] Sending event FMLConstructionEvent to mod GalacticraftMars
+2014-01-26 22:59:01 [Ottimale] [ForgeModLoader] Testing mod GalacticraftMars to verify it accepts its own version in a remote connection
+2014-01-26 22:59:01 [Ottimale] [ForgeModLoader] The mod GalacticraftMars accepts its own version (2.0.8)
+2014-01-26 22:59:01 [Buono] [ForgeModLoader] Attempting to inject @SidedProxy classes into GalacticraftMars
+2014-01-26 22:59:01 [Ottimale] [GalacticraftMars] Sent event FMLConstructionEvent to mod GalacticraftMars
+2014-01-26 22:59:01 [Ottimale] [IronChest] Sending event FMLConstructionEvent to mod IronChest
+2014-01-26 22:59:01 [Ottimale] [ForgeModLoader] Testing mod IronChest to verify it accepts its own version in a remote connection
+2014-01-26 22:59:01 [Ottimale] [ForgeModLoader] The mod IronChest accepts its own version (5.4.1.677)
+2014-01-26 22:59:01 [Buono] [ForgeModLoader] Attempting to inject @SidedProxy classes into IronChest
+2014-01-26 22:59:01 [Ottimale] [IronChest] Sent event FMLConstructionEvent to mod IronChest
+2014-01-26 22:59:01 [Ottimale] [MinersDeluxe] Sending event FMLConstructionEvent to mod MinersDeluxe
+2014-01-26 22:59:02 [Grave] [MinersDeluxe] The mod MinersDeluxe appears to have an invalid event annotation EventHandler. This annotation can only apply to methods with recognized event arguments - it will not be called
+2014-01-26 22:59:02 [Ottimale] [ForgeModLoader] Testing mod MinersDeluxe to verify it accepts its own version in a remote connection
+2014-01-26 22:59:02 [Ottimale] [ForgeModLoader] The mod MinersDeluxe accepts its own version (2.2.3)
+2014-01-26 22:59:02 [Buono] [ForgeModLoader] Attempting to inject @SidedProxy classes into MinersDeluxe
+2014-01-26 22:59:02 [Ottimale] [MinersDeluxe] Sent event FMLConstructionEvent to mod MinersDeluxe
+2014-01-26 22:59:02 [Ottimale] [MoreExplosives] Sending event FMLConstructionEvent to mod MoreExplosives
+2014-01-26 22:59:12 [Ottimale] [mcp] Sending event FMLServerStoppedEvent to mod mcp
+2014-01-26 22:59:12 [Ottimale] [mcp] Sent event FMLServerStoppedEvent to mod mcp
+2014-01-26 22:59:12 [Ottimale] [FML] Sending event FMLServerStoppedEvent to mod FML
+2014-01-26 22:59:12 [Ottimale] [FML] Sent event FMLServerStoppedEvent to mod FML
+2014-01-26 22:59:12 [Ottimale] [Forge] Sending event FMLServerStoppedEvent to mod Forge
+2014-01-26 22:59:12 [Ottimale] [Forge] Sent event FMLServerStoppedEvent to mod Forge
+2014-01-26 22:59:12 [Ottimale] [Micdoodlecore] Sending event FMLServerStoppedEvent to mod Micdoodlecore
+2014-01-26 22:59:12 [Ottimale] [Micdoodlecore] Sent event FMLServerStoppedEvent to mod Micdoodlecore
+2014-01-26 22:59:12 [Ottimale] [Paleocraft] Sending event FMLServerStoppedEvent to mod Paleocraft
+2014-01-26 22:59:12 [Ottimale] [Paleocraft] Sent event FMLServerStoppedEvent to mod Paleocraft
+2014-01-26 22:59:12 [Ottimale] [ArchimedesShipsMod] Sending event FMLServerStoppedEvent to mod ArchimedesShipsMod
+2014-01-26 22:59:12 [Ottimale] [ArchimedesShipsMod] Sent event FMLServerStoppedEvent to mod ArchimedesShipsMod
+2014-01-26 22:59:12 [Ottimale] [BeerMod] Sending event FMLServerStoppedEvent to mod BeerMod
+2014-01-26 22:59:12 [Ottimale] [BeerMod] Sent event FMLServerStoppedEvent to mod BeerMod
+2014-01-26 22:59:12 [Ottimale] [ComputerCraft] Sending event FMLServerStoppedEvent to mod ComputerCraft
+2014-01-26 22:59:12 [Ottimale] [ComputerCraft] Sent event FMLServerStoppedEvent to mod ComputerCraft
+2014-01-26 22:59:12 [Ottimale] [CCTurtle] Sending event FMLServerStoppedEvent to mod CCTurtle
+2014-01-26 22:59:12 [Ottimale] [CCTurtle] Sent event FMLServerStoppedEvent to mod CCTurtle
+2014-01-26 22:59:12 [Ottimale] [ConfigMod] Sending event FMLServerStoppedEvent to mod ConfigMod
+2014-01-26 22:59:12 [Ottimale] [ConfigMod] Sent event FMLServerStoppedEvent to mod ConfigMod
+2014-01-26 22:59:12 [Ottimale] [CoroAI] Sending event FMLServerStoppedEvent to mod CoroAI
+2014-01-26 22:59:12 [Ottimale] [CoroAI] Sent event FMLServerStoppedEvent to mod CoroAI
+2014-01-26 22:59:12 [Ottimale] [ExtendedRenderer] Sending event FMLServerStoppedEvent to mod ExtendedRenderer
+2014-01-26 22:59:12 [Ottimale] [ExtendedRenderer] Sent event FMLServerStoppedEvent to mod ExtendedRenderer
+2014-01-26 22:59:12 [Ottimale] [IC2] Sending event FMLServerStoppedEvent to mod IC2
+2014-01-26 22:59:12 [Ottimale] [IC2] Sent event FMLServerStoppedEvent to mod IC2
+2014-01-26 22:59:12 [Ottimale] [GalacticraftCore] Sending event FMLServerStoppedEvent to mod GalacticraftCore
+2014-01-26 22:59:12 [Ottimale] [GalacticraftCore] Sent event FMLServerStoppedEvent to mod GalacticraftCore
+2014-01-26 22:59:12 [Ottimale] [GalacticraftMars] Sending event FMLServerStoppedEvent to mod GalacticraftMars
+2014-01-26 22:59:12 [Ottimale] [GalacticraftMars] Sent event FMLServerStoppedEvent to mod GalacticraftMars
+2014-01-26 22:59:12 [Ottimale] [IronChest] Sending event FMLServerStoppedEvent to mod IronChest
+2014-01-26 22:59:12 [Ottimale] [IronChest] Sent event FMLServerStoppedEvent to mod IronChest
+2014-01-26 22:59:12 [Ottimale] [MinersDeluxe] Sending event FMLServerStoppedEvent to mod MinersDeluxe
+2014-01-26 22:59:12 [Ottimale] [MinersDeluxe] Sent event FMLServerStoppedEvent to mod MinersDeluxe
+2014-01-26 22:59:12 [Ottimale] [MoreExplosives] Sending event FMLServerStoppedEvent to mod MoreExplosives
+2014-01-26 22:59:12 [Ottimale] [MoreExplosives] Sent event FMLServerStoppedEvent to mod MoreExplosives
+2014-01-26 22:59:12 [Ottimale] [natureReborn] Sending event FMLServerStoppedEvent to mod natureReborn
+2014-01-26 22:59:12 [Ottimale] [natureReborn] Sent event FMLServerStoppedEvent to mod natureReborn
+2014-01-26 22:59:12 [Ottimale] [TC] Sending event FMLServerStoppedEvent to mod TC
+2014-01-26 22:59:12 [Ottimale] [TC] Sent event FMLServerStoppedEvent to mod TC
+2014-01-26 22:59:12 [Ottimale] [TwilightForest] Sending event FMLServerStoppedEvent to mod TwilightForest
+2014-01-26 22:59:12 [Ottimale] [TwilightForest] Sent event FMLServerStoppedEvent to mod TwilightForest
+2014-01-26 22:59:12 [Ottimale] [AIBlock] Sending event FMLServerStoppedEvent to mod AIBlock
+2014-01-26 22:59:12 [Ottimale] [AIBlock] Sent event FMLServerStoppedEvent to mod AIBlock
+2014-01-26 22:59:12 [Ottimale] [WeatherMod] Sending event FMLServerStoppedEvent to mod WeatherMod
+2014-01-26 22:59:12 [Ottimale] [WeatherMod] Sent event FMLServerStoppedEvent to mod WeatherMod
+2014-01-26 22:59:12 [Informazioni] [ForgeModLoader] The state engine was in incorrect state ERRORED and forced into state SERVER_STOPPED. Errors may have been discarded.
+2014-01-26 22:59:12 [Informazioni] [ForgeModLoader] The state engine was in incorrect state ERRORED and forced into state AVAILABLE. Errors may have been discarded.

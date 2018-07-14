@@ -1,0 +1,62 @@
+{
+  "skynet": {
+    "factionId": "1",
+    "role": "ADMIN",
+    "title": "",
+    "power": 4.341349999999999,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1376660452157,
+    "lastLoginTime": 1376660452157,
+    "chatMode": "PUBLIC"
+  },
+  "Dannyscreed99": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": -5.4191666666666665,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1376673455485,
+    "lastLoginTime": 1376673455485,
+    "chatMode": "PUBLIC"
+  },
+  "gohan": {
+    "factionId": "1",
+    "role": "NORMAL",
+    "title": "",
+    "power": 10.0,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1381950847375,
+    "lastLoginTime": 1381950847375,
+    "chatMode": "PUBLIC"
+  },
+  "codecraft200": {
+    "factionId": "1",
+    "role": "NORMAL",
+    "title": "",
+    "power": 10.0,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1381865349312,
+    "lastLoginTime": 1381865349312,
+    "chatMode": "PUBLIC"
+  },
+  "olongon": {
+    "factionId": "3",
+    "role": "ADMIN",
+    "title": "",
+    "power": -3.0353633333333336,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1380293402125,
+    "lastLoginTime": 1380293402125,
+    "chatMode": "PUBLIC"
+  },
+  "herrorbrain": {
+    "factionId": "2",
+    "role": "ADMIN",
+    "title": "",
+    "power": 10.0,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1381684100015,
+    "lastLoginTime": 1381684100015,
+    "chatMode": "PUBLIC"
+  }
+}

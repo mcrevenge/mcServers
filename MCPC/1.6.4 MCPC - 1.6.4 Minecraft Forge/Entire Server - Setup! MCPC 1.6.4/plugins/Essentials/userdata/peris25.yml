@@ -1,0 +1,18 @@
+timestamps:
+  login: 1382274668500
+  logout: 1382280385984
+ipAddress: 192.168.1.104
+lastlocation:
+  world: Mondo6
+  x: 64.0
+  y: 64.0
+  z: -80.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: MondoCrysma
+  x: 343.37780865830746
+  y: 84.6049681856466
+  z: -24.863464993998637
+  yaw: -38.03186
+  pitch: 31.349987

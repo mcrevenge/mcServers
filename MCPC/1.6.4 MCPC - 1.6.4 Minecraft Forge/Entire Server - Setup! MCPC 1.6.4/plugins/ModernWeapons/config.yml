@@ -1,0 +1,169 @@
+# |\ \--------------ModernWeapons-----------/ /|
+# |/ /                                      \ \|
+# |\ \                 Config               / /|
+# |/ /                                      \ \|
+# |\ \--------------------------------------/ /|
+#
+# Copyright DarkBlade12; All rights reserved.
+# DarkBlade12 is the developer and respective owner of this plugin.
+#
+# FAQ:
+# * Gun: 
+# To add a gun, add an entry with the name under "Guns"
+#
+# - Item: ID of the item that should be used as a gun
+# (Data value usage: ID,DATA)
+# - Ammo: ID of the item that should be used as the ammo of that weapon
+# (Data value usage: ID,DATA)
+# - Velocity: Speed of the fired arrows
+# - Damage: Amount of damage one shot will deal (1 = half heart)
+# - HeadshotDamage: Amount of damage one headshot will deal
+# - MagazineSize: Amount of bullets a magazine can have
+# - ReloadTime: Time in seconds how long it takes to reload
+# - ShotDelay: Time between the shots in milliseconds
+# - Scope: Value if you can scope with it (true/false)
+# - Zoom: Strength of the zoom while scoping
+# - Explosion: Value if the shot will explode on impact (true/false)
+# - Range: Radius of the explosion damage
+# - Shots: Amount of bullets that will be fired when you pull the trigger
+# - Spread: Value of the max spread bullets can have
+# - Sound: Type of sound that will be used when firing (Normal/Shotgun/Sniper/RocketLauncher)
+# - Bullet: Type of the bullet that will be fired (snowball/egg/arrow)
+#
+# * Grenade:
+# To add a grenade, add an entry with the name under "Grenades"
+#
+# - Item: ID of the item that should be used as a grenade
+# (Data value usage: ID,DATA)
+# - Smoke: Value if the grenade will create smoke (true/false)
+# - Damage: Amount of damage the grenade deals (1 = half heart)
+# - Range: Radius of the explosion damage
+# - Cooldown: Time between grenade throws in milliseconds
+# - ExplosionDelay: Time in seconds how long the grenade takes to explode
+# - Sticky: Value if the grenade will stick on enemies (true/false)
+# - Effects: List of effects the grenade will cause
+# (Usage: EFFECTNAME, DURATION)
+
+# General settings
+General:
+ 
+ # Value if the player starts with a full magazine when he uses the weapon the first time
+ # If this is false, the player has to reload the weapon first
+ FullMagazineStart: false
+ 
+ # List of WorldLimit settings
+ WorldLimit:
+ 
+  # If this is set to true, the weapons can only be used in the worlds entered in the Worlds list
+  Enabled: false
+  
+  # List of worlds, where weapons are enabled
+  # Only will be active if "Enabled" is set to true
+  Worlds:
+   - world
+   - world_nether
+   - world_the_end
+
+ 
+# List of message settings
+MessageOptions:
+
+ # If this is set to true, the player will receive all weapon related messages
+ # Does not affect the Headshot and Death message
+ Enabled: false
+ 
+ # If this is set to true, the Headshot message will be broadcasted
+ BroadcastHeadshot: true
+ 
+ # If this is true, the custom death message will show if the player is killed by a weapon from this plugin
+ CustomDeathMessage: true
+ 
+# List of messages
+# These can be changed!
+Messages:
+ NoMagazine: '&4&lYou dont have any bullets!'
+ NotReloaded: '&b&oYou have to wait %time% till your weapon has reloaded!'
+ WeaponReloaded: '&a&lThe %weapon% has been reloaded!'
+ Headshot: '&c&l%shooter% just shot %player% into the head!'
+ Death: '&8&l%shooter% &r&a[%weapon%] &7&l%player%'
+ 
+# List of guns that can be used
+Guns:
+  P90:
+   Item: 340
+   Ammo: 370
+   Velocity: 3
+   Damage: 5
+   HeadshotDamage: 10
+   MagazineSize: 50
+   ReloadTime: 4
+   ShotDelay: 40
+   Scope: true
+   Zoom: 3
+   Spread: 1
+  SPAS-12:
+   Item: 379
+   Ammo: 370
+   Velocity: 1
+   Damage: 4
+   HeadshotDamage: 11
+   MagazineSize: 8
+   ReloadTime: 6
+   ShotDelay: 1000
+   Scope: true
+   Zoom: 1
+   Shots: 7
+   Spread: 3
+   Sound: Shotgun
+  RPG7:
+   Item: 369
+   Ammo: 385
+   Velocity: 2
+   Explosion: true
+   Range: 6
+   Damage: 10
+   HeadshotDamage: 20
+   MagazineSize: 5
+   ReloadTime: 10
+   ShotDelay: 3000
+   Scope: true
+   Zoom: 2
+   Sound: RocketLauncher
+  M98B:
+   Item: 356
+   Ammo: 370
+   Velocity: 4
+   Damage: 15
+   HeadshotDamage: 40
+   MagazineSize: 9
+   ReloadTime: 7
+   ShotDelay: 3000
+   Scope: true
+   Zoom: 5
+   Sound: Sniper
+   Bullet: Arrow
+# List of grenades that can be used
+Grenades:
+  M-67:
+   Item: 341
+   Smoke: true
+   Damage: 12
+   Range: 7
+   Cooldown: 2000
+   ExplosionDelay: 3
+  Semtex:
+   Item: 378
+   Smoke: false
+   Damage: 18
+   Range: 3
+   Cooldown: 2000
+   ExplosionDelay: 2
+   Sticky: true
+  Flashbang:
+   Item: 377
+   Smoke: true
+   Effects:
+    - Blindness, 20
+   Range: 9
+   Cooldown: 1000
+   ExplosionDelay: 0

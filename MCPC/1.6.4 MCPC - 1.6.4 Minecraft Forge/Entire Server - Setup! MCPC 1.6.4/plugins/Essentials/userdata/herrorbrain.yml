@@ -1,0 +1,21 @@
+timestamps:
+  login: 1388955142784
+  logout: 1388957494793
+  lastteleport: 1388956129778
+ipAddress: 192.168.1.102
+logoutlocation:
+  world: Mondo6
+  x: 140.86681791012847
+  y: 71.0
+  z: -64.29120296839534
+  yaw: 81.900116
+  pitch: 16.949997
+lastlocation:
+  world: MondoCrysma
+  x: 222.53800978439568
+  y: 64.0
+  z: 193.6668684050345
+  yaw: 181.7078
+  pitch: 17.760727
+godmode: true
+nickname: XXsonoFigoXX

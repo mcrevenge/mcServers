@@ -1,0 +1,18 @@
+timestamps:
+  login: 1389037534948
+  logout: 1389037716813
+ipAddress: 192.168.1.102
+lastlocation:
+  world: Mondo6
+  x: 64.0
+  y: 64.0
+  z: -80.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: mondopiatto
+  x: -1792.2392933784677
+  y: 11.997280839176534
+  z: 1008.0819368443723
+  yaw: -56.99728
+  pitch: 90.0

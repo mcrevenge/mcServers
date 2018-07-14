@@ -1,0 +1,24 @@
+PM:
+  Update:
+    check: 'true'
+  Message:
+    disable:
+      notargs: §4You have to select a plugin.
+      notloadplugin: §4Can't disable the plugin, it's either already disabled or not installed.
+      disableplugin: §aDisabled the plugin successfully
+    enable:
+      notargs: §4You have to select a plugin.
+      loadplugin: §4The plugin is already loaded.
+      enableplugin: §aEnabled the plugin successfully.
+    pmload:
+      notargs: §4You have to select a plugin.
+      isload: §4The plugin is already loaded. Use /pmreloadpl to reload it.
+      loadplugin: §aLoaded the plugin successfully.
+    pmreload:
+      reload: §cConfig Reloaded
+    pmreloadpl:
+      notargs: §4You have to select a plugin.
+      notloadplugin: §4Can't reload the plugin, plugin was not loaded. Use /pmload to load it.
+      reloadplugin: §aReloaded the plugin successfully.
+    disableall:
+      disableall: §aDisabled all plugins succesfully

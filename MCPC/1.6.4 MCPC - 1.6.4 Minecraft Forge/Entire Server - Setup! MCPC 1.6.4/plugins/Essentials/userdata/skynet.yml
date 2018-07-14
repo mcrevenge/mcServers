@@ -1,0 +1,21 @@
+timestamps:
+  login: 1382280446031
+  logout: 1382280552906
+  lastteleport: 1381850184828
+ipAddress: 151.49.224.143
+lastlocation:
+  world: MondoCrysma
+  x: 234.4161229997722
+  y: 61.68708460537319
+  z: 117.79327803581872
+  yaw: -327.90088
+  pitch: 16.199919
+logoutlocation:
+  world: MondoCrysma
+  x: 275.28768356673686
+  y: 108.77201422786258
+  z: -41.41247230012611
+  yaw: 92.44934
+  pitch: 47.882458
+godmode: true
+afk: false

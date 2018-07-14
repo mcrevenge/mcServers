@@ -1,0 +1,357 @@
+# PermissionsBukkit configuration file
+# 
+# A permission node is a string like 'permissions.build', usually starting
+# with the name of the plugin. Refer to a plugin's documentation for what
+# permissions it cares about. Each node should be followed by true to grant
+# that permission or false to revoke it, as in 'permissions.build: true'.
+# Some plugins provide permission nodes that map to a group of permissions -
+# for example, PermissionsBukkit has 'permissions.*', which automatically
+# grants all admin permissions. You can also specify false for permissions
+# of this type.
+# 
+# Users inherit permissions from the groups they are a part of. If a user is
+# not specified here, or does not have a 'groups' node, they will be in the
+# group 'default'. Permissions for individual users may also be specified by
+# using a 'permissions' node with a list of permission nodes, which will
+# override their group permissions. World permissions may be assigned to
+# users with a 'worlds:' entry.
+# 
+# Groups can be assigned to players and all their permissions will also be
+# assigned to those players. Groups can also inherit permissions from other
+# groups. Like user permissions, groups may override the permissions of their
+# parent group(s). Unlike users, groups do NOT automatically inherit from
+# default. World permissions may be assigned to groups with a 'worlds:' entry.
+users:
+  ConspiracyWizard:
+    permissions:
+      permissions.example: true
+    groups:
+    - admin
+  herrorbrain:
+    groups:
+    - default
+    - thevip
+  fede:
+    groups:
+    - default
+  amopowa:
+    groups:
+    - default
+  dannyscreed99:
+    groups:
+    - default
+    - thevip
+groups:
+  default:
+    permissions:
+      permissions.build: true
+      permissions.breack: true
+      essentials.spawn: true
+      essentials.back: true
+      essentials.back.ondeath: true
+      essentials.home: true
+      essentials.sethome: true
+      essentials.tpa: true
+      essentials.tpaccept: true
+      essentials.getpos: true
+      essentials.tppos: true
+      essentials.msg: true
+      essentials.warps.*: true
+      essentials.warps.montagne: true
+      essentials.pay: true
+      essentials.balance: true
+      essentials.fly.safelogin: true
+      essentials.antioch: false
+      factions.kit.fullplayer: true
+      factions.viewanypower: true
+      factions.home: true
+      factions.claim: true
+      factions.create: true
+      factions.disband: true
+      factions.invite: true
+      factions.join: true
+      factions.kick: true
+      factions.leave: true
+      factions.list: true
+      factions.chat: true
+      starwars.tools: true
+      starwars.r2: true
+      starwars.force.grip: true
+      starwars.force.push: true
+      starwars.force.lightning: false
+      starwars.lightsaber.craft: true
+      starwars.lightsaber.defend: false
+      starwars.blaster.craft: false
+      starwars.force.boots: false
+      starwars.fallboots: false
+      starwars.command: false
+      starwars.fullforce: false
+      starwars.bountyhunter.jetpack: true
+      starwars.bountyhunter.boots: false
+      starwars.bountyhunter.trousers: false
+      starwars.bountyhunter.goggles: false
+      starwars.bountyhunter.rocket: false
+      starwars.bountyhunter.thermaldetonator: false
+      modernweapons.p90: true
+      modernweapons.spas-12: true
+      modernweapons.rpg7: false
+      modernweapons.Eagle-47: true
+      modernweapons.griefer-power: true
+      modernweapons.nerdboom: true
+      modernweapons.ak-47: true
+      modernweapons.granata: true
+      modernweapons.sticky: true
+      modernweapons.flashbang: true
+      flamethrower.use: true
+      chestshop.shop.buy: true
+      dragoneggs.summon: true
+      boseconomy.common.wallet: true
+      nextquarry.user.*: true
+      multiverse.access.*: true
+      multiverse.core.tp.self: true
+  admin:
+    permissions:
+      permissions.*: false
+      permissions.breack: true
+      permissions.build: true
+      modernweapons.p90: true
+      modernweapons.spas-12: true
+      modernweapons.rpg7: true
+      modernweapons.Eagle-47: true
+      modernweapons.griefer-power: true
+      modernweapons.nerdboom: true
+      modernweapons.ak-47: true
+      modernweapons.granata: true
+      modernweapons.granatasticky: true
+      modernweapons.flashbang: true
+      essentials.bigtree: true
+      essentials.break: true
+      essentials.break.bedrock: true
+      essentials.enchant: true
+      essentials.enchant.*: true
+      essentials.exp: true
+      essentials.feed: true
+      essentials.firework: true
+      essentials.firework.fire: true
+      essentials.fly: true
+      essentials.fly.safelogin: true
+      essentials.gamemode: true
+      essentials.give: true
+      essentials.god: true
+      essentials.hat: true
+      essentials.heal: true
+      essentials.heal.cooldown.bypass: true
+      essentials.heal.others: true
+      essentials.item: true
+      essentials.kit: true
+      essentials.kit.exemptdelay: true
+      essentials.kit.others: true
+      essentials.kits.*: true
+      essentials.more: true
+      essentials.oversizedstacks: true
+      essentials.ptime: true
+      essentials.ptime.others: true
+      essentials.repair: true
+      essentials.repair.armor: true
+      essentials.repair.enchanted: true
+      essentials.speed: true
+      essentials.speed.bypass: true
+      essentials.speed.others: true
+      essentials.tree: true
+      essentials.unlimited: true
+      essentials.unlimited.*: true
+      essentials.workbench: true
+      essentials.balance: true
+      essentials.balance.others: true
+      essentials.eco: true
+      essentials.pay: true
+      essentials.sell: true
+      essentials.setworth: true
+      essentials.worth: true
+      essentials.afk.auto: true
+      essentials.afk.kickexempt: true
+      essentials.book: true
+      essentials.book.author: true
+      essentials.book.others: true
+      essentials.book.title: true
+      essentials.compass: true
+      essentials.depth: true
+      essentials.getpos: true
+      essentials.getpos.others: true
+      essentials.list.hidden: true
+      essentials.help: true
+      essentials.info: true
+      essentials.itemdb: true
+      essentials.list: true
+      essentials.me: true
+      essentials.motd: true
+      essentials.msg: true
+      essentials.msg.color: true
+      essentials.msg.magic: true
+      essentials.near: true
+      essentials.nick: true
+      essentials.nick.color: true
+      essentials.powertool: true
+      essentials.powertool.append: true
+      essentials.powertooltoggle: true
+      essentials.recipe: true
+      essentials.rules: true
+      essentials.seen: true
+      essentials.seen.extra: true
+      essentials.spawner: true
+      essentials.spawner.*: true
+      essentials.suicide: true
+      essentials.antioch: true
+      essentials.ban.exempt: true
+      essentials.burn: true
+      essentials.clearinventory: true
+      essentials.enderchest: true
+      essentials.essentials: true
+      essentials.ext: true
+      essentials.fireball: true
+      essentials.gc: true
+      essentials.invsee: true
+      essentials.invsee.modify: true
+      essentials.jails: true
+      essentials.kick: true
+      essentials.kick.exempt: true
+      essentials.lightning: true
+      essentials.mute: true
+      essentials.setjail: true
+      essentials.jail.exempt: true
+      essentials.togglejail: true
+      essentials.teleport.hidden: true
+      essentials.vanish: true
+      essentials.weather: true
+      essentials.spawn: true
+      essentials.back: true
+      essentials.back.ondeath: true
+      essentials.home: true
+      essentials.sethome: true
+      essentials.sethome.multiple: true
+      essentials.setwarp: true
+      essentials.tp: true
+      essentials.tp.others: true
+      essentials.worlds.*: true
+      essentials.tpa: true
+      essentials.tpaall: true
+      essentials.tpaccept: true
+      essentials.tpahere: true
+      essentials.tpall: true
+      essentials.tphere: true
+      essentials.tppos: true
+      essentials.warp: true
+      essentials.warp.list: true
+      essentials.warp.otherplayers: true
+      essentials.warps.*: true
+      essentials.protect: true
+      essentials.protect.admin: true
+      essentials.protect.pvp: true
+      essentials.signs.create.balance: true
+      essentials.signs.create.buy: true
+      essentials.signs.create.enchant: true
+      essentials.signs.protection.override: true
+      essentials.setspawn: false
+      essentials.banip: false
+      essentials.ban: false
+      essentials.kill: false
+      essentials.killall: true
+      essentials.kickall: false
+      essentials.time: false
+      essentials.time.set: false
+      starwars.ttools: true
+      starwars.r2: true
+      starwars.force.grip: true
+      starwars.force.push: true
+      starwars.force.lightning: true
+      starwars.lightsaber.craft: true
+      starwars.lightsaber.defend: true
+      starwars.blaster.craft: true
+      starwars.force.boots: true
+      starwars.fallboots: true
+      starwars.command: true
+      starwars.fullforce: true
+      starwars.bountyhunter.jetpack: true
+      starwars.bountyhunter.boots: true
+      starwars.bountyhunter.trousers: true
+      starwars.bountyhunter.goggles: true
+      starwars.bountyhunter.rocket: true
+      starwars.bountyhunter.thermaldetonator: true
+      factions.bypass: true
+      factions.kit.fullplayer: true
+      ancientgates.*: true
+      ancientgates.help: false
+      ancientgates.create: false
+      ancientgates.delete: false
+      ancientgates.setfrom: false
+      ancientgates.setto: false
+      ancientgates.open: false
+      ancientgates.close: false
+      ancientgates.rename: false
+      ancientgates.list: false
+      chestshop.admin: true
+      disguisecraft.*: true
+      dragoneggs.admin: true
+      flamethrower.use: true
+      worldedit.*: true
+      boseconomy.common.wallet: true
+      multiverse.access.*: true
+      multiverse.core.tp.self: true
+      pvpflight.bypass: true
+      nextquarry.admin: true
+  thevip:
+    permissions:
+      permissions.build: true
+      permissions.breack: true
+      essentials.spawn: true
+      essentials.back: true
+      essentials.back.ondeath: true
+      essentials.home: true
+      essentials.sethome: true
+      essentials.tpa: true
+      essentials.tpaccept: true
+      essentials.getpos: true
+      essentials.tppos: true
+      essentials.msg: true
+      essentials.warps.deserto: true
+      essentials.warps.montagne: true
+      essentials.warps.montagna: true
+      essentials.fly: true
+      essentials.gamemode: true
+      essentials.bigtree: true
+      essentials.tree: true
+      essentials.give: false
+      essentials.god: false
+      starwars.ttools: true
+      starwars.r2: true
+      starwars.force.grip: true
+      starwars.force.push: true
+      starwars.force.lightning: true
+      starwars.lightsaber.craft: true
+      starwars.lightsaber.defend: true
+      starwars.blaster.craft: true
+      starwars.force.boots: true
+      starwars.fallboots: true
+      starwars.command: true
+      starwars.fullforce: true
+      starwars.bountyhunter.jetpack: true
+      starwars.bountyhunter.boots: true
+      starwars.bountyhunter.trousers: true
+      starwars.bountyhunter.goggles: true
+      starwars.bountyhunter.rocket: true
+      starwars.bountyhunter.thermaldetonator: true
+      worldedit.*: true
+      nextquarry.user.*: true
+    inheritance:
+    - user
+  user:
+    permissions:
+      permissions.build: true
+    worlds:
+      creative:
+        coolplugin.item: true
+    inheritance:
+    - default
+messages:
+  build: '&cYou do not have permission to build here.'
+debug: false
